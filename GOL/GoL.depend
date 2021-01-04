@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1495084730 source:c:\users\kelsey\documents\c++\practice\gol\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+
